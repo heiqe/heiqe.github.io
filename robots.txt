@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heiqe.github.io/NCz/sitemap.NCz.gz
